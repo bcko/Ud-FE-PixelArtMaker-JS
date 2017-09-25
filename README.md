@@ -1,7 +1,7 @@
 # Udacity-FEND-Pixel-Art-Maker
 Udacity Front-End Web Developer Nanodegree Project 
 
-## What Wil I Build
+## What Will I Build
 You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas! Check out this example:
 ![Pixel Art Maker Image](https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4a997_screen-shot-2017-08-22-at-8.33.49-pm/screen-shot-2017-08-22-at-8.33.49-pm.png)
 
