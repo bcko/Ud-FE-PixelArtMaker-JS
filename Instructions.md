@@ -29,7 +29,7 @@ Now test it! When you're done, you should be able to create a canvas of any size
 ## Udacity Style Guides
 The starter contains basic styling, but feel free to style the app as you please! You should write your code and markup to meet the specifications provided in these style guides:
 
-* CSS Style Guide
-* HTML Style Guide
-* JavaScript Style Guide
-* Git Style Guide
+* [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+* [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
+* [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+* [Git Style Guide](https://udacity.github.io/git-styleguide/)
