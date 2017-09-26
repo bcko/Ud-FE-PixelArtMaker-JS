@@ -1,4 +1,4 @@
-# Udacity-FEND-Pixel-Art-Maker
+# Udacity Front End Nanodegree Pixel Art Maker
 Udacity Front-End Web Developer Nanodegree Project 
 
 ## What Will I Build
