@@ -1,7 +1,7 @@
 # Udacity Front End Nanodegree Pixel Art Maker
 Udacity Front-End Web Developer Nanodegree Project : Pixel Art Maker
 
-[Pixel Art Maker Live Demo](https://bcko.github.io/Ud-FrontEnd-PixelArtMaker)
+[Pixel Art Maker Live Demo](https://bcko.github.io/Ud-FrontEndND-PixelArtMaker)
 
 ## Project Overview
 
