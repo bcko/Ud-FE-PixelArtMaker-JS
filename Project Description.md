@@ -1,6 +1,4 @@
-# Udacity Front End Nanodegree Pixel Art Maker
-Udacity Front-End Web Developer Nanodegree Project : Pixel Art Maker
-
+# Project Description
 ## Project Overview
 
 ### What Will I Build
